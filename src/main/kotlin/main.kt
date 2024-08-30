@@ -1,4 +1,4 @@
 fun main()
 {
-    println("hello kotlin")
+    println("First App!")
 }
